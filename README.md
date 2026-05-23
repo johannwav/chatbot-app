@@ -30,4 +30,4 @@ Aplicación web Full Stack desarrollada con React, Node.js y Tailwind CSS v4.
     cd frontend
     npm install
     npm run dev
-Abrir http://localhost:5173 en el navegador
+4. Abrir http://localhost:5173 en el navegador
