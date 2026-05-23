@@ -23,6 +23,11 @@ Aplicación web Full Stack desarrollada con React, Node.js y Tailwind CSS v4.
 1. Clonar el repositorio
 2. Configurar el Backend:
    ```bash
-   cd backend
-   npm install
-   npm run dev
+    cd backend
+    npm install
+    npm run dev
+3. Configurar el Frontend (en otra terminal):
+    cd frontend
+    npm install
+    npm run dev
+Abrir http://localhost:5173 en el navegador
