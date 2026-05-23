@@ -1,0 +1,15 @@
+# Dependencias (Nunca se suben)
+node_modules/
+
+# Archivos de entorno / secretos (Vite y Node)
+.env
+.env.local
+
+# Producción / Compilación
+frontend/dist/
+
+# Logs del sistema
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
